@@ -94,7 +94,7 @@ const config = {
     return [
       {
         source: '/',
-        destination: '/swap',
+        destination: '/',
         permanent: true,
       },
       {
